@@ -37,3 +37,12 @@ userdata/
 .vscode/
 *.swp
 *.swo
+
+# Local audit / maintenance artifacts
+_github_history_audit/
+_github_history_audit_auth/
+github-only-maintenance/
+grundstueck_outputs/
+_github_publish_staging/
+ipynb_scan_report.json
+apeiron_db_audit.py
